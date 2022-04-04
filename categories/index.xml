@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on ЗКІС</title>
+    <link>https://teacher-sana.github.io/categories/</link>
+    <description>Recent content in Categories on ЗКІС</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua-ua</language><atom:link href="https://teacher-sana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lecture</title>
+      <link>https://teacher-sana.github.io/categories/lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/categories/lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc_history</title>
+      <link>https://teacher-sana.github.io/categories/pc_history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/categories/pc_history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc_history_2</title>
+      <link>https://teacher-sana.github.io/categories/pc_history_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/categories/pc_history_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc_history_3</title>
+      <link>https://teacher-sana.github.io/categories/pc_history_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/categories/pc_history_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc_history_4</title>
+      <link>https://teacher-sana.github.io/categories/pc_history_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/categories/pc_history_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pc_history_5</title>
+      <link>https://teacher-sana.github.io/categories/pc_history_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/categories/pc_history_5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

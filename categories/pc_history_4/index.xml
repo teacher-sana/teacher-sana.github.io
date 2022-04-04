@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pc_history_4 on ЗКІС</title>
+    <link>https://teacher-sana.github.io/categories/pc_history_4/</link>
+    <description>Recent content in pc_history_4 on ЗКІС</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua-ua</language><atom:link href="https://teacher-sana.github.io/categories/pc_history_4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Електронно-обчислювалні машини ІII покоління</title>
+      <link>https://teacher-sana.github.io/posts/pc_history_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/posts/pc_history_4/</guid>
+      <description>Третє покоління на базі інтегральних схем (1965–1974) вийшло на арену у зв’язку з появою цих інтегральних схем, які на невеличкій пластинці кристалу кремнію вміщували сотні і тисячі елементів електронної схеми — транзисторів, діодів тощо. У ці часи з’явилася напівпровідникова пам’ять, яку й досі використовують у пристроях оперативної пам’яті. Швидкодія машин зросла до мільйонів операцій за секунду. Поряд з числовою і текстовою інформацією розпочалося опрацювання графічної інформації. Для машин третього покоління було створено операційні системи, які взяли на себе керування пам&amp;rsquo;яттю, пристроями введення і виведення інформації та використанням інших машинних ресурсів.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pc_history_3 on ЗКІС</title>
+    <link>https://teacher-sana.github.io/categories/pc_history_3/</link>
+    <description>Recent content in pc_history_3 on ЗКІС</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua-ua</language><atom:link href="https://teacher-sana.github.io/categories/pc_history_3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Електронно-обчислювалні машини ІI покоління</title>
+      <link>https://teacher-sana.github.io/posts/pc_history_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teacher-sana.github.io/posts/pc_history_3/</guid>
+      <description>У даному розділі мова йде про розвиток електронно-обчислювальних машин після винайдення транзистора
+Машини стали надійнішими, компактнішими, споживання енергії зменшилося. Оперативну пам’ять було побудовано на магнітних сердечниках. Швидкодія машин зросла до сотень тисяч операцій за секунду. Обчислювальні машини Ferranti Pegasus 1 (1956 рік) і Pegasus 2 (1959 рік). Pegasus 1 використано для розрахунку 7480 цифр числа Піфагора π, що було рекордом для свого часу.
+Ferranti Pegasus 1
+Серед радянських комп&amp;rsquo;ютерів другого покоління був Мінськ–22.</description>
+    </item>
+    
+  </channel>
+</rss>
