@@ -2,38 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://teacher-sana.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/categories/lecture/</loc>
+    <loc>/categories/courses/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/categories/pc_history/</loc>
+    <loc>/categories/lecture/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/categories/pc_history_2/</loc>
+    <loc>/categories/pc_arh/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/categories/pc_history_3/</loc>
+    <loc>/categories/pc_history/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/categories/pc_history_4/</loc>
+    <loc>/categories/pc_history_2/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/categories/pc_history_5/</loc>
+    <loc>/categories/pc_history_3/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/</loc>
+    <loc>/categories/pc_history_4/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/tags/</loc>
+    <loc>/categories/pc_history_5/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/pc_history/</loc>
+    <loc>/posts/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/pc_history_2/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/pc_history_3/</loc>
+    <loc>/posts/pc_arh/skladannya_zayavok/theory/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/pc_history_4/</loc>
+    <loc>/posts/pc_history/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/pc_history_5/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/</loc>
+    <loc>/posts/pc_arhitecture/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/pc_history_1/</loc>
+    <loc>/posts/labs/power_supply/</loc>
   </url><url>
-    <loc>https://teacher-sana.github.io/posts/lecture/</loc>
+    <loc>/posts/pc_arh/install_os/install_os/</loc>
+  </url><url>
+    <loc>/posts/pc_history_2/</loc>
+  </url><url>
+    <loc>/posts/pc_history_3/</loc>
+  </url><url>
+    <loc>/posts/pc_history_4/</loc>
+  </url><url>
+    <loc>/posts/pc_history_5/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/os_classification/theory/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/text_editors/editors_classification/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/software_licenses/conspect/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/power_point/theory/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/software_protection/</loc>
+  </url><url>
+    <loc>/posts/pc_history_1/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/access/theory/</loc>
+  </url><url>
+    <loc>/posts/info_process_tech/translator/help/</loc>
+  </url><url>
+    <loc>/posts/labs/lab_main/</loc>
+  </url><url>
+    <loc>/posts/courses/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/software_classification/theory/</loc>
+  </url><url>
+    <loc>/posts/info_process_tech/optic_text_recog/theory/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/technological_processes/make_instruction/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/technological_processes/theory/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/text_editors/text_editors/</loc>
+  </url><url>
+    <loc>/posts/lecture/</loc>
+  </url><url>
+    <loc>/posts/info_process_tech/translator/theory/</loc>
+  </url><url>
+    <loc>/posts/info_process_tech/main/</loc>
+  </url><url>
+    <loc>/posts/labs/cases/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/software_licenses/theory/</loc>
+  </url><url>
+    <loc>/posts/pc_arh/excel/interactive/</loc>
   </url>
 </urlset>

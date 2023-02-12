@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pc_arh on Інформаційно-навчальний сайт</title>
+    <link>/categories/pc_arh/</link>
+    <description>Recent content in pc_arh on Інформаційно-навчальний сайт</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua-ua</language><atom:link href="/categories/pc_arh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Методи та засоби захисту комп’ютерної інформації.</title>
+      <link>/posts/pc_arh/software_protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pc_arh/software_protection/</guid>
+      <description>TEMA. Методи та засоби захисту комп’ютерної інформації. Інформація як об’єкт захисту Широке використання інформаційних технологій у всіх сферах життя суспільства робить досить актуальною проблему захисту інформації, її користувачів, інформаційних ресурсів, каналів передачі даних від злочинних зазіхань зловмисників.
+Концентрація інформації в комп&amp;rsquo;ютерах (аналогічно концентрації готівки в банках) змушує одних усе більш підсилювати пошуки шляхів доступу до інформації, а інших, відповідно, підсилювати контроль над нею з метою захисту.
+Складність створення системи захисту інформації визначається тим, що дані можуть бути викрадені з комп&amp;rsquo;ютера (скопійовані), одночасно залишаючись на місці.</description>
+    </item>
+    
+  </channel>
+</rss>
