@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/industrial_training/course_1/1/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/23/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/categories/courses/</loc>
@@ -30,11 +34,19 @@
   </url><url>
     <loc>/</loc>
   </url><url>
+    <loc>/posts/industrial_training/course_1/6/</loc>
+  </url><url>
     <loc>/posts/pc_arhitecture/</loc>
   </url><url>
     <loc>/posts/labs/power_supply/</loc>
   </url><url>
+    <loc>/posts/industrial_training/nav/</loc>
+  </url><url>
     <loc>/posts/pc_arh/install_os/install_os/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/21/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/8/</loc>
   </url><url>
     <loc>/posts/pc_history_2/</loc>
   </url><url>
@@ -43,6 +55,8 @@
     <loc>/posts/pc_history_4/</loc>
   </url><url>
     <loc>/posts/pc_history_5/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/10/</loc>
   </url><url>
     <loc>/posts/pc_arh/os_classification/theory/</loc>
   </url><url>
@@ -54,7 +68,19 @@
   </url><url>
     <loc>/posts/pc_arh/software_protection/</loc>
   </url><url>
+    <loc>/posts/industrial_training/course_1/15/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/22/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/19/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/7/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/4/</loc>
+  </url><url>
     <loc>/posts/pc_history_1/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/nav/</loc>
   </url><url>
     <loc>/posts/pc_arh/access/theory/</loc>
   </url><url>
@@ -64,17 +90,27 @@
   </url><url>
     <loc>/posts/courses/</loc>
   </url><url>
+    <loc>/posts/industrial_training/course_1/18/</loc>
+  </url><url>
     <loc>/posts/pc_arh/software_classification/theory/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/14/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/11/</loc>
   </url><url>
     <loc>/posts/info_process_tech/optic_text_recog/theory/</loc>
   </url><url>
     <loc>/posts/pc_arh/technological_processes/make_instruction/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/25/</loc>
   </url><url>
     <loc>/posts/pc_arh/technological_processes/theory/</loc>
   </url><url>
     <loc>/posts/pc_arh/text_editors/text_editors/</loc>
   </url><url>
     <loc>/posts/lecture/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/5/</loc>
   </url><url>
     <loc>/posts/info_process_tech/translator/theory/</loc>
   </url><url>
@@ -83,6 +119,14 @@
     <loc>/posts/labs/cases/</loc>
   </url><url>
     <loc>/posts/pc_arh/software_licenses/theory/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/20/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/12/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/24/</loc>
+  </url><url>
+    <loc>/posts/industrial_training/course_1/13/</loc>
   </url><url>
     <loc>/posts/pc_arh/excel/interactive/</loc>
   </url>
